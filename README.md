@@ -28,7 +28,7 @@ Automação diária desenvolvida com BotCity para gerar relatórios internos com
 
 ## 🖼️ Exemplo de relatório gerado
 
-![Relatório no e-mail](screenshots/preview.png)
+![Relatório no e-mail](preview.png)
 
 ---
 
